@@ -9,7 +9,6 @@
 // The program should say "Hello" to any name except names that start with a "J"
 // or "j", otherwise, the program should say "Good Bye". So, the final output
 // on the console should look like this:
-*/
 //Hello Yaakov
 //Good Bye John
 //Good Bye Jen
@@ -25,8 +24,6 @@
 //as described in the requirements and the steps in order to complete this
 //assignment.
 //WARNING!!! WARNING!!!
-*/
-
 // STEP 1: (NOTHING TO DO. ALREADY DONE FOR YOU)
 // Wrap the entire contents of script.js inside of an IIFE
 // See Lecture 52, part 2
