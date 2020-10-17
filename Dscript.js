@@ -62,4 +62,4 @@ var helloSpeaker= {};
         helloSpeaker.speak(names[i]);
       }
     }
-}(speak);   
+}(speak)
